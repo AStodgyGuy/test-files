@@ -1,0 +1,6 @@
+s IN
+r IN
+foo1 NOT s
+foo2 AND r out
+out OR foo1 foo2
+qbar NOT out

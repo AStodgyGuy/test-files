@@ -1,0 +1,4 @@
+s IN
+r IN
+out NOR s qbar
+qbar NOR r out

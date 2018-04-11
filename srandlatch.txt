@@ -1,0 +1,4 @@
+s IN
+r IN
+out AND s qbar
+qbar AND r out

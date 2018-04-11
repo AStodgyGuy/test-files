@@ -1,0 +1,7 @@
+s IN
+e IN
+r IN
+foo1 AND s e
+foo2 AND r e
+out NOR foo1 qbar
+qbar NOR foo2 out
